@@ -11,6 +11,7 @@ const angularOptions: BrowserOptions & DevServerOptions = {
 
 export const MyApp2Options: AngularAppOptions = {
   sourceRoot: 'src',
+  portRange: [3002, 3002],
   
   /**
    * Name of the app in Bit CLI.

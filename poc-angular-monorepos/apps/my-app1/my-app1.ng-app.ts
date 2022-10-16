@@ -6,11 +6,12 @@ const angularOptions: BrowserOptions & DevServerOptions = {
   index: 'src/index.html',
   tsConfig: 'tsconfig.app.json',
   assets: ['src/favicon.ico', 'src/assets'],
-  styles: ['src/styles.scss'],
+  styles: ['src/styles.scss']
 };
 
 export const MyApp1Options: AngularAppOptions = {
   sourceRoot: 'src',
+  portRange: [3001, 3001],
   
   /**
    * Name of the app in Bit CLI.

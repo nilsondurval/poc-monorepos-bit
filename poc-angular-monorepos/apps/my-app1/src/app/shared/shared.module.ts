@@ -4,7 +4,7 @@ import { RouterModule } from '@angular/router';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { HttpClientModule } from '@angular/common/http';
-import { MySharedComponentModule } from '@mrnsn/poc-angular-monorepos.components.my-shared-component';
+import { MySharedComponentModule } from '../../../../../components/my-shared-component/my-shared-component.module';
 
 @NgModule({
   declarations: [],
