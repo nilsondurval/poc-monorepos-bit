@@ -11,31 +11,31 @@
 {
     "apps/my-app": {
         "scope": "mrnsn.poc-angular-apps",
-        "version": "cff82107cdba0348251a5f13e4ac5b3fc3629fe4",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "poc-angular-apps/apps/my-app"
     },
     "apps/my-app1": {
         "scope": "mrnsn.poc-angular-monorepos",
-        "version": "e6eec22d53bd8ad68966ac1142d3a3cdda4e12bd",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "poc-angular-monorepos/apps/my-app1"
     },
     "apps/my-app2": {
         "scope": "mrnsn.poc-angular-monorepos",
-        "version": "ccf5a180ce63d5f27149adf806b82fba443abbfe",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "poc-angular-monorepos/apps/my-app2"
     },
     "components/my-shared-component": {
         "scope": "mrnsn.poc-angular-monorepos",
-        "version": "9a9cf06bafb37077465cd8de9627bbc35c6f297a",
+        "version": "0.0.1",
         "mainFile": "public-api.ts",
         "rootDir": "poc-angular-monorepos/components/my-shared-component"
     },
     "ui/my-button": {
         "scope": "mrnsn.poc-angular-components",
-        "version": "44993fa5f74ff3325367139f817d81a37c12d5f2",
+        "version": "0.0.2",
         "mainFile": "public-api.ts",
         "rootDir": "poc-angular-components/ui/my-button"
     },
