@@ -38,9 +38,7 @@
      */
     "packageManager": "teambit.dependencies/yarn",
     "policy": {
-      "dependencies": {
-        "@mrnsn/poc-angular-components.ui.my-button": "0.0.1"
-      },
+      "dependencies": {},
       "peerDependencies": {}
     },
     "linkCoreAspects": true

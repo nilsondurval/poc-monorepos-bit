@@ -2513,23 +2513,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mrnsn/poc-angular-components.ui.my-button@npm:0.0.1":
-  version: 0.0.1
-  resolution: "@mrnsn/poc-angular-components.ui.my-button@npm:0.0.1::__archiveUrl=https%3A%2F%2Fnode.bit.cloud%2F%40mrnsn%2Fpoc-angular-components.ui.my-button%2F-%2F%40mrnsn-poc-angular-components.ui.my-button-0.0.1.tgz"
-  dependencies:
-    tslib: ^2.3.0
-  peerDependencies:
-    "@angular/common": ~13.2.0
-    "@angular/core": ~13.2.0
-    "@angular/platform-browser": ~13.2.0
-    "@angular/platform-browser-dynamic": ~13.2.0
-    rxjs: ~7.4.0
-    typescript: ~4.5.2
-    zone.js: ~0.11.4
-  checksum: a714c8b7df6b87b250258970d1f6fbc8faba357f56c7e52d4510a25cc82581ac7fbfad2847dab7950b4cd96e01cd37371b84127e0e6b0fa0c6c7ade3af9357b5
-  languageName: node
-  linkType: hard
-
 "@ngtools/webpack@npm:13.2.6, @ngtools/webpack@npm:~13.2.1":
   version: 13.2.6
   resolution: "@ngtools/webpack@npm:13.2.6::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40ngtools%2Fwebpack%2F-%2Fwebpack-13.2.6.tgz"
@@ -16958,7 +16941,6 @@ __metadata:
     "@angular/compiler-cli": ">=13.2.0 <13.3.0"
     "@angular/forms": 13.2.7
     "@angular/router": 13.2.7
-    "@mrnsn/poc-angular-components.ui.my-button": 0.0.1
     "@teambit/angular": 1.2.16
     "@teambit/angular-apps": 0.1.3
     "@types/jest": ">=27.0.3 <28.0.0"
