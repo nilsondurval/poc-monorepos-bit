@@ -1,2 +1,2 @@
 # poc-monorepos-bit
-Este repositório é uma POC de monorepos utilizando o bit
+This is a POC of monorepos using bit from bit.dev.
